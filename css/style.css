@@ -257,12 +257,13 @@ padding-bottom: 94px;
     height: auto;
  }
  .projects-item {
+    padding-top: 50px;
+    padding-bottom: 94px;
     display: flex;
     flex-wrap: wrap;
     gap: 30px;
- 
  }
- .projects-list{
+ .projects-list {
 width: 370px;
  }
 
@@ -357,14 +358,7 @@ min-width: 124px;
     color: #757575;
     max-width: 358px;
 }
-.projects-item {
-    padding-top: 50px;
-    padding-bottom: 94px;
-    max-width: 774px;
-    gap: 30px;
-    display: flex;
 
-}
 
 .team-list content {
     padding-top: 20px;
